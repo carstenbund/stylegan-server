@@ -3,12 +3,16 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
 build/
+dnnlib/
+data/
+images/
 develop-eggs/
 dist/
 downloads/
